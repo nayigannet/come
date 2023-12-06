@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+}
+.come{
+    display: flex;
+}
+.image{
+    background-image: url("animal.jpg");
+    background-position: center;
+    background-size:cover;
+    width: 50px;
+    height: 60px;
+}   
